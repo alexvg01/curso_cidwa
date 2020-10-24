@@ -1,3 +1,13 @@
 git status
 git add
+git add .
 git commit -m ""
+git push origin main
+
+git checkout <6 digits>
+
+git checkout -b <name new branch>
+git push origin <name new branch>
+
+git checkout <rama>
+
